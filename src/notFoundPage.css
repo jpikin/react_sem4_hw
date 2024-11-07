@@ -2,6 +2,7 @@
 
 
 :root {
+    
     --bg: hsl(0 0% 70%);
     --header: hsl(0, 0%, 9%);
     --lit-header: hsl(0 0% 100%);
@@ -122,3 +123,12 @@ p {
         --swing-x: 100;
     }
 }
+.goTo {
+    border-radius: 6px;
+    border: 1px solid currentColor;
+    padding: 10px 15px;
+    color: currentColor;
+    align-self: center;
+    outline-color: currentColor;
+
+  }
