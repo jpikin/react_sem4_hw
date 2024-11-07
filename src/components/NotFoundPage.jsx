@@ -4,7 +4,7 @@ function NotFoundPage() {
     return (
       <>
 
-        <h1>
+        <h1 className='h1'>
           404
           <span aria-hidden="true">404</span>
         </h1>
